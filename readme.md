@@ -255,9 +255,9 @@ Please use the following citation when referencing
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
   title={WaterScenes: A Multi-Task 4D Radar-Camera Fusion Dataset and Benchmarks for Autonomous Driving on Water Surfaces}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-15},
+  volume={25},
+  number={11},
+  pages={16584-16598},
   doi={10.1109/TITS.2024.3415772}}
 ```
 
